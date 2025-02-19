@@ -1,5 +1,4 @@
-#!/bin/bash
-#include <stdio.h>
+#!/bin/bash i#include <stdio.h>
 /**
  * main - Point d'entrée du programme
  *
