@@ -1,4 +1,4 @@
-#!/bin/bashi#include <stdio.h>
+#include <stdio.h>
 /**
  * main - Point d'entrée du programme
  *
