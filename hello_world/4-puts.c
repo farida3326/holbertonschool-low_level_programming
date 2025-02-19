@@ -1,4 +1,4 @@
-#!/bin/bash i#include <stdio.h>
+#!/bin/bashi#include <stdio.h>
 /**
  * main - Point d'entrée du programme
  *
@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+        puts("\"Programming is like building a multilingual puzzle");
+        return (0);
 }
