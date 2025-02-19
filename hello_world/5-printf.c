@@ -1,6 +1,5 @@
 #!/bin/bash
 #include <stdio.h>
-
 /**
  * main - Point d'entrée du programme
  *
